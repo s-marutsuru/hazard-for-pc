@@ -4,6 +4,7 @@
     "display": "standalone",
     "scope": "./",
     "start_url": "./",
+    "homepage": "./",    
     "name": "防災マップ",
     "icons": [
         {
